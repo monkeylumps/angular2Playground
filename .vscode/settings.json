@@ -1,4 +1,6 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "http.proxy": "http://proxy.btn.opra.gov.uk:80"
+    "http.proxy": "",
+    "http.proxyStrictSSL": false,
+    "http.proxyAuthorization": null
 }
