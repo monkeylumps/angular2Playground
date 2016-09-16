@@ -1,6 +1,3 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "http.proxy": "",
-    "http.proxyStrictSSL": false,
-    "http.proxyAuthorization": null
 }
